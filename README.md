@@ -1,57 +1,67 @@
+<h2 align="left">Hi 👋! My name is Jerico Paster and I'm a passionate student, from South Korea</h2>
 
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hiiiey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hiiiey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-# 👋 Anyeong! I'm Jerico Paster
+###
+<img align="right" height="150" src="https://raw.githubusercontent.com/hiiiey/hiiiey/refs/heads/main/photohe.png"  />
 
-<p align="center">
-<p align="center">
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+</div>
 
-</p>
-</p>
+###
+<div align="left">
+  <a href="https://linkedin.com/in/jerico-paster-17401b189">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://fb.com/jericopaster">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://kaggle.com/anyeonghaseyo">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kaggle logo"  />
+  </a>
+  <a href="mailto:jecopaster@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
-![I am a passionate student and also learning...](https://raw.githubusercontent.com/hiiiey/hiiiey/refs/heads/main/photohe.png)
+###
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/hiiiey/hiiiey/output/snake.svg" alt="Snake animation" />
 
-### 🚀 About Me
+###
 
-I am currently in the process of learning and continuously improving my skills.
-I look forward to contributing more meaningfully to projects in the near future.
-### 🌱 Currently Exploring
-- **Frameworks:** Next.js, React, Laravel
-- **Always Curious:** Diving deep into modern web technologies
-
-### 🛠️ Technologies & Tools
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
-![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiiiey&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hiiiey&theme=github_dark"/>
-</p>
-
-### 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-Jerico%20Paster-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jerico-paster-17401b189)
-[![Kaggle](https://img.shields.io/badge/-Anyeonghaseyo-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/anyeonghaseyo)
-[![Facebook](https://img.shields.io/badge/-Jerico%20Paster-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/jericopaster)
-
-### 📧 Contact
-
-- **Email:** jecopaster@gmail.com
-
-⚡ **Fun Fact:** I'm sailing without a map, but enjoying every moment of the journey hehe!
-
----
-
-*Powered by curiosity and continuous learning* 🌟
+<div align="center">
+  <p>⚡ <b>Fun Fact:</b> I'm sailing without a map, but enjoying every moment of the journey!</p>
+  <p><i>Powered by curiosity and continuous learning</i> 🌟</p>
+</div>
