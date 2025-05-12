@@ -1,6 +1,6 @@
 <img align="right" height="280" src="https://raw.githubusercontent.com/hiiiey/hiiiey/refs/heads/main/codingg%20gif.gif" />
 
-<h2 align="center">Hi 👋! Anyeong! I'm Jerico Paster</h2>
+<h3 align="center">Hi 👋! Anyeong! I'm Jerico Paster</h3>
 <h3 align="center">A passionate student... still learning and exploring!</h3>
 
 <div align="center">
