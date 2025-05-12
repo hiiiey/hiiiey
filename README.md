@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 Hi there! I'm Jerico Paster
+
+🎓 A passionate **Computer Science student** at NORSU  
+💡 Aspiring **Software Engineer** | **Web Designer** | **Graphic Designer**  
 
 <!--
 **hiiiey/hiiiey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
