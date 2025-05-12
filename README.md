@@ -12,8 +12,8 @@
 
 ### 🚀 About Me
 
-I'm a tech enthusiast currently navigating the world of web development without a fixed map - embracing the journey of continuous learning!
-
+I am currently in the process of learning and continuously improving my skills.
+I look forward to contributing more meaningfully to projects in the near future.
 ### 🌱 Currently Exploring
 - **Frameworks:** Next.js, React, Laravel
 - **Always Curious:** Diving deep into modern web technologies
@@ -49,7 +49,7 @@ I'm a tech enthusiast currently navigating the world of web development without 
 
 - **Email:** jecopaster@gmail.com
 
-⚡ **Fun Fact:** I'm sailing without a map, but enjoying every moment of the journey!
+⚡ **Fun Fact:** I'm sailing without a map, but enjoying every moment of the journey hehe!
 
 ---
 
