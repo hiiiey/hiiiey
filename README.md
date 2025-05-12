@@ -20,6 +20,7 @@
 
 ### Web Development
 <div align="center">
+    <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" height="65" alt="Photoshop" />
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" height="65" alt="HTML5" />
   <img width="12" />
   <img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" height="65" alt="MySQL" />
