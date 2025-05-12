@@ -1,7 +1,7 @@
 <img align="right" height="280" src="https://raw.githubusercontent.com/hiiiey/hiiiey/refs/heads/main/codingg%20gif.gif" />
 
 <h2 align="center">Hi 👋! Anyeong! I'm Jerico Paster</h2>
-<h3 align="center">A passionate student developer... still learning and exploring!</h3>
+<h3 align="center">A passionate student... still learning and exploring!</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hiiiey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph" />
@@ -76,8 +76,8 @@
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kaggle logo" />
   </a>
   <a href="mailto:jecopaster@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
 </div>
 
 <br clear="both">
