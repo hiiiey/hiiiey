@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jerico Paster and I'm a passionate student, from South Korea</h2>
+<h2 align="left">Hi 👋! Anyeong! name is Jerico Paster and I'm a passionate student... still learning.</h2>
 
 ###
 <div align="center">
@@ -58,9 +58,8 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/hiiiey/hiiiey/output/snake.svg" alt="Snake animation" />
-###
 
-<div align="center">
+### <div align="center">
   <p>⚡ <b>Fun Fact:</b> I'm sailing without a map, but enjoying every moment of the journey!</p>
   <p><i>Powered by curiosity and continuous learning</i> 🌟</p>
 </div>
