@@ -1,14 +1,15 @@
+
+
 # 👋 Anyeong! I'm Jerico Paster
 
 <p align="center">
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/hiiiey" alt="Jerico Paster" width="200" height="200" />
+
 </p>
 </p>
 
-## 🎓 Passionate Student & Still Learning...
+![I am a passionate student and also learning...](https://raw.githubusercontent.com/hiiiey/hiiiey/refs/heads/main/photohe.png)
 
-![Profile Views](https://komarev.com/ghpvc/?username=hiiiey&color=0e75b6&style=for-the-badge)
 
 ### 🚀 About Me
 
