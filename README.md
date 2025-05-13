@@ -1,13 +1,22 @@
-<img align="right" height="280" src="https://raw.githubusercontent.com/hiiiey/hiiiey/refs/heads/main/codingg%20gif.gif" />
-
-<h3 align="center">Hi 👋! Anyeong! I'm Jerico Paster</h3>
-<h3 align="center">A passionate student... still learning and exploring!</h3>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiiiey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <table>
+    <tr>
+      <td width="55%">
+        <h1>nyeong! I'm Jerico Paster</h1>
+        <h3>A passionate student... still learning and exploring!</h3>
+        <br/>
+        <a href="https://github.com/hiiiey">
+          <img src="https://github-readme-stats.vercel.app/api?username=hiiiey&show_icons=true&count_private=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td width="45%">
+        <img height="280" src="https://raw.githubusercontent.com/hiiiey/hiiiey/main/codingg%20gif.gif" alt="Coding animation" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<h2 align="center">My Tech Stack</h2>
+<h2 align="center">🛠️ My Tech Stack</h2>
 
 ### Programming Languages
 <div align="center">
