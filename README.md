@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td width="55%">
-        <h1>nyeong! I'm Jerico Paster</h1>
+        <h1>Anyeong! I'm Jerico Paster</h1>
         <h3>A passionate student... still learning and exploring!</h3>
         <br/>
         <a href="https://github.com/hiiiey">
@@ -17,6 +17,7 @@
 </div>
 
 <h2 align="center">🛠️ My Tech Stack</h2>
+
 
 ### Programming Languages
 <div align="center">
