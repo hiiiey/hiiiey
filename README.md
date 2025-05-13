@@ -3,7 +3,7 @@
     <tr>
       <td width="55%">
         <h1>Anyeong! I'm Jerico Paster</h1>
-        <h3>A passionate student... still learning and exploring!</h3>
+        <h3>A compassionate student... still learning and exploring!</h3>
         <br/>
         <a href="https://github.com/hiiiey">
           <img src="https://github-readme-stats.vercel.app/api?username=hiiiey&show_icons=true&count_private=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats" />
